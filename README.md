@@ -20,10 +20,10 @@ If the user wants to change the password, it can be changed using the OTP that w
  **Sucessfully registerd** will be sent on the user Email
 
 <br/>
-<img src="./assets/Registerd.png" ></img>  
+<img src="./assets/Registerd.png"  width="400" height="400"></img>  
 
 <br/>
-<img src = "https://drive.google.com/file/d/1WAB1Jsd1e5iXpNL_gD5FN76IO5deceLE/view?usp=share_link"> </img>
+<img src = "./assets/Register.png" width="400" height="400"> </img>
 
 <br/>
 
@@ -31,7 +31,7 @@ If the user wants to change the password, it can be changed using the OTP that w
 
 
 <br/>
-<img src = "./assets/updation.gif"> </img>
+<img src = "./assets/updation.png" width="400" height="400"> </img>
 
 <br/>
 
@@ -40,10 +40,10 @@ If the user wants to change the password, it can be changed using the OTP that w
 User will recieve the OTP on its registerd email 
 
 <br/>
-<img src = "./assets/OTPScreenshot.png"> </img>
+<img src = "./assets/OTPScreenshot.png" width="400" height="400"> </img>
 
 <br/>
-<img src = "./assets/OTP.gif"> </img>
+<img src = "./assets/Reset.png" width="400" height="400"> </img>
 
 <br/>
 
@@ -51,7 +51,7 @@ User will recieve the OTP on its registerd email
 
 ## Mobile View
 
-<img src = "./assets/MobileView.png"> </img>
+<img src = "./assets/MobileView.png" width="400" height="400"> </img>
 
 
 
