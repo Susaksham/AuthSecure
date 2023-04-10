@@ -33,7 +33,7 @@ If the user wants to change the password, it can be changed using the OTP that w
 <br/>
 
 <br/>
-<img src = "./assets/Reset.png" width="400" height="400"> </img>
+<img src = "./assets/Updation.png" width="400" height="400"> </img>
 
 ## Reset Password
 
