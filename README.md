@@ -32,7 +32,6 @@ If the user wants to change the password, it can be changed using the OTP that w
 
 <br/>
 <img src = "./assets/updation.png" width="400" height="400"> </img>
-
 <br/>
 
 ## Reset Password
